@@ -1,0 +1,10 @@
+
+.cardMovie{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cardMovie img{
+    width: 100px;
+}
